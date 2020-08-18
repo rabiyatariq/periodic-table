@@ -1,0 +1,76 @@
+body
+{
+    border: 1px solid orangered;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+font-weight: 500;
+}
+td
+{
+    width: 100px;
+    border: 1px solid orangered;
+text-align: center;
+
+
+}
+.span
+{
+    border: none;
+}
+.header
+{
+    background-color: yellow;
+      font-size: 30px;
+      border: 1px solid orangered;
+      margin: 0 auto; 
+      font-family: serif;
+      font-weight: normal;
+}
+.bg-1
+{
+    background-color: #ff9966;
+   
+}
+.green
+{
+    color: #458619;
+}
+.blue
+{
+    color: blue;
+}
+.red
+{
+    color: red;
+}
+.bg-2
+{
+    background-color: #dda0dd;
+}
+.bg-3
+{
+    background-color: #90c7ff;
+}
+.bg-4
+{
+    background-color: #fceff0;
+}
+.bg-5
+{
+    background-color: #fff28e;
+}
+.bg-6
+{
+    background-color: #c79810;
+}
+.bg-7
+{
+    background-color: #cdeb8b;
+}
+.bg-8
+{
+    background-color: #ebdca9;
+}
+.bg-9{
+background-color: #e6e6fa;
+}
